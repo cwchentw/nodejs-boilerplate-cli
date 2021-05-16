@@ -1,34 +1,26 @@
-# Hello World Program in Node.js CLI
+# Boilerplate Project for Node.js CLI
 
-This tiny program demonstrates how to write a CLI program in Node.js.
+A Node.js boilerplate project to implement CLI programs in Node.js.
 
 ## System Requirements
 
 * Node.js v8.x or later
 
-## Install
+## Usage
 
 ```console
-$ git clone https://github.com/cwchentw/nodejs-cli-hello.git
-$ cd nodejs-cli-hello
+$ git clone https://github.com/cwchentw/nodejs-boilerplate-cli.git mycli
+$ cd mycli
+```
+
+Modify the repo as need. Later, run these commands to install your own cli program:
+
+```console
 $ npm install
 $ npm run prod
 $ npm install -g
 ```
 
-Then, `hello` should be available in your console environment.
-
-## Usage
-
-Write a dummy *.env* for environment variables used in this program.
-
-Run this program:
-
-```
-$ hello
-Hello World
-```
-
 ## Copyright
 
-[MIT](https://opensource.org/licenses/MIT)
+Copyright (c) 2021, Michael Chen. Licensed under [MIT](https://opensource.org/licenses/MIT).
