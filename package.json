@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-cli-hello",
+  "name": "nodejs-boilerplate-cli",
   "version": "0.1.0",
-  "description": "Hello World Program in Node.js CLI",
+  "description": "Boilerplate Project for Node.js CLI",
   "main": "dist/app.js",
   "bin": {
     "hello": "./cli.js"
