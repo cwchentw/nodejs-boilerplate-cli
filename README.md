@@ -32,4 +32,4 @@ $ git push
 
 ## Copyright
 
-Copyright (c) 2021, Michael Chen. Licensed under [MIT](https://opensource.org/licenses/MIT).
+Copyright (c) 2021, Michelle Chen. Licensed under [MIT](https://opensource.org/licenses/MIT).

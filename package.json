@@ -18,7 +18,7 @@
     "flow": "flow"
   },
   "keywords": [],
-  "author": "Michael Chen",
+  "author": "Michelle Chen",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.13.16",
